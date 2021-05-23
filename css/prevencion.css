@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: gray;
+}
+
+.parrafo1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+.parrafo2{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titulo1{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: honeydew;
+}

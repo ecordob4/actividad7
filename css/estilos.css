@@ -1,0 +1,7 @@
+.fondobarra{
+    background-color: purple !important;
+}
+
+.links >li >a{
+    color: white !important;
+}
